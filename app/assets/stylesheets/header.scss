@@ -10,6 +10,19 @@ $header-padding-y: 16px;
   padding: $header-padding-y 16px;
   font-weight: bold;
 
+  &_logos {
+      min-width: 0;
+      display: flex;
+
+      img {
+          cursor: pointer;
+          margin-right: 20px;
+          
+         
+          margin: ($avatar-size ) / 5 px 2;  
+      }
+  }
+
   &_pageTitle {
     color: white;
     line-height: $avatar-size;
