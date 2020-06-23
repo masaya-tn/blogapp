@@ -23,6 +23,7 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 
 gem 'annotate'
+gem 'active_decorator'
 gem 'faker'
 gem 'hamlit'
 gem 'better_errors'
