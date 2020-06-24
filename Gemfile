@@ -24,6 +24,7 @@ gem 'jbuilder', '~> 2.7'
 
 gem 'annotate'
 gem 'active_decorator'
+gem 'active_model_serializers'
 gem 'faker'
 gem 'hamlit'
 gem 'better_errors'
