@@ -68,4 +68,5 @@ document.addEventListener('DOMContentLoaded', () => {
     listenInactiveHeartEvent(articleId)
     listenActiveHeartEvent(articleId)
   
-})
+
+  })
